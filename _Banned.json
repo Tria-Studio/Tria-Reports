@@ -4,6 +4,5 @@
     111,
     2333,
     76167,
-    83014169,
-    "getmetatable(setmetatable({}, {__index = function(...) return print(...) end })).__index(true)"
+    83014169
 ]
