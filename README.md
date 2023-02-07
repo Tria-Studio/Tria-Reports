@@ -33,4 +33,4 @@ To report an exploiter you must:
 
 ``Video:`` https://youtu.be/Ufgr8vH0i7I
 
-``Info:`` Ethan used fly hacks to hit all the buttons and beat the maps ruining the experience for everyone else >:c
+``Info:`` Ethan used fly hacks to hit all the buttons and beat the maps ruining the experience for everyone else
